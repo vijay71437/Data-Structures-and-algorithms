@@ -24,6 +24,9 @@ public class R3TailRecursion {
     }
 }
 
+//Time Complexity: O(n)
+//Auxiliary space: O(n)
+//T(n)=T(n-1)+O(1)
 
 // Why Tail Recursion Matters?
 // 1. Uses Less Stack (in languages that optimize it)

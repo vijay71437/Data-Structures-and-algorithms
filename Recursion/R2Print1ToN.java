@@ -14,5 +14,5 @@ public class R2Print1ToN {
 }
 
 //Time Complexity: O(n)
-//Auxiliary space space: O(n)
-//T(n)=T(n-1)+1
+//Auxiliary space: O(n)
+//T(n)=T(n-1)+O(1)
